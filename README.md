@@ -1,4 +1,3 @@
-# JAVA-FULL
 
 I am currently diving into the world of Java programming and this repository serves as my learning playground. Here, you'll find a collection of projects, exercises, and experiments as I progress on my Java learning journey.
 
